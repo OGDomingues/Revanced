@@ -1,6 +1,6 @@
 {
   "version": "v7.66.0.876414181 (patches 5.50.2.rvp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/7ijmk/Revanced/releases/download/2/googlephotos-revanced-module-v7.66.0.876414181-arm64-v8a.zip",
-  "changelog": "https://raw.githubusercontent.com/7ijmk/Revanced/update/build.md"
+  "versionCode": 1,
+  "zipUrl": "https://github.com/OGDomingues/Revanced/releases/download/1/googlephotos-revanced-module-v7.66.0.876414181-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/OGDomingues/Revanced/update/build.md"
 }
