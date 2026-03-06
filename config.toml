@@ -16,13 +16,6 @@ integrations-source = "MorpheApp/revanced-integrations"
 rv-brand = "MorpheApp ReVanced"
 excluded-patches = "'Custom branding'"
 
-[GooglePhotos]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-
 [Twitter]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
