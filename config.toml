@@ -11,14 +11,11 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "MorpheApp/morphe-patches"
+integrations-source = "MorpheApp/revanced-integrations"
+rv-brand = "MorpheApp ReVanced"
 excluded-patches = "'Custom branding'"
-
-[Music]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
 build-mode = "both"
@@ -26,11 +23,6 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
-
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
 [Twitter]
 enabled = false
@@ -43,6 +35,5 @@ dpi = "120-640dpi"
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-included-patches = "'Disable Reels scrolling' 'Limit feed to followed profiles' 'Anonymous story viewing' 'Hide explore feed' 'Hide highlights tray' 'Hide navigation buttons' 'Hide Stories from Home' 'Hide suggested content' 'Open links externally' 'Change link sharing domain' 'Disable signature check' 'Disable story auto flipping'"
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
