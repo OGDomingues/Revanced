@@ -18,16 +18,17 @@ rv-brand = "Morphe"
 build-mode = "both"
 excluded-patches = "'Custom branding'"
 
-[Twitter]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
-dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea ReVanced"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+included-patches = "'Hide ads' 'Disable analytics' 'Remove build expired popup' 'Sanitize sharing links'"
+exclusive-patches = true
